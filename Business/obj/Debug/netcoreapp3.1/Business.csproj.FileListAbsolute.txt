@@ -1,0 +1,13 @@
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ayish\source\repos\Familytree\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Ayish\source\repos\Familytree\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ayish\source\repos\Familytree\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Ayish\source\repos\Familytree\Business\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Ayish\source\repos\Familytree\Business\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Ayish\source\repos\Familytree\Business\obj\Debug\netcoreapp3.1\Business.pdb
